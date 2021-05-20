@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - StartBlock
+  - EndBlock
+  - BasicBlock
+  - Node
+  - Hexokinase
+  - Phosphoglucose Isomerase
+  - Phosphofructokinase
+  - Triose Phosphate Isomerase
+  - Glyceraldehyde-3-Phosphate Dehydrogenase
+  - Phosphoglycerate Kinase
+  - Phosphoglycerate Mutase
+  - Enolase
+  - Pyruvate Kinase
+  - Fructose 1,6-bisphosphate Aldolase
+  - Citrate Synthase
+  - Fumarase
+  - Isocitrate Dehydrogenase
+  - Malate Dehydrogenase
+  - Oxoglutarate Dehydrogenase
+  - Pyruvate Dehydrogenase
+  - Succinate Dehydrogenase
+  - Succinyl Synthase
+  - Aconitase
+  - EndBlockNADH
+  - EndBlockNADHL
+  - EndBlockNADHR
+  - EndBlockFADH2
+  - C1
+  - C2
+  - Q10
+  - C3
+  - C
+  - C4
+  - StartblockFADH2
+  - StartblockNADH
+  - EndBlockoxygen
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1494069657
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
