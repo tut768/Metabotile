@@ -1,4 +1,6 @@
 # Metabotile
+This project looks to create a game that proves games can be an effective educational tool. It will look to teach the metabolic process of how Glucose is turned into energy inside the human body.
+
 Accessing the project is extremely simple and the process to do so will be described below
 
 The only mandatory dependency that must be installed before you can run the project is Unity this is required if you wish to open the project. It is also highly recommended that you use an IDE of some kind to access the scripts. I used visual studio, but others are available if you so desire.
